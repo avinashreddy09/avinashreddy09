@@ -40,10 +40,9 @@ class Developer:
     @property
     def current_work(self):
         return [
-            "Predictive OS Resource Allocation",
-            "Sign Language Detection (CV)",
-            "Naukri Job Automation",
-            "Email Summarizer",
+            "AI Resume Builder (500+ users)",
+            "Credit Card Fraud Detection (95% precision)",
+            "AI Thumbnail Generator (Gemini AI)",
         ]
 
 me = Developer()
@@ -69,7 +68,7 @@ me = Developer()
   <a href="https://codeforces.com/profile/AvinashReddy09">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/avinashreddy09">
+  <a href="https://www.hackerrank.com/profile/avinashreddydon1">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </div>
@@ -121,14 +120,27 @@ me = Developer()
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [🧠 Predictive OS Resource Allocation](https://github.com/avinashreddy09/Predictive-OS-Resource-Allocation) | ML-based system to predict and optimize OS resource allocation | Python, ML |
-| [🤟 Sign Language Detection](https://github.com/avinashreddy09/sign-language-detection) | Real-time sign language detection using Computer Vision | Python, OpenCV |
-| [📧 Email Summarizer](https://github.com/avinashreddy09/email_summarizer) | AI-powered email summarization tool | Python, LLM |
-| [🤖 Naukri Job Automation](https://github.com/avinashreddy09/naukari-job-automation) | Automates job applications on Naukri.com | Python, Selenium |
-| [📚 Website for Book Lovers](https://github.com/avinashreddy09/website-for-book-lovers-) | A web platform for book enthusiasts | HTML, CSS, JS |
-| [💡 DSA Practice](https://github.com/avinashreddy09/DSA---Practice) | 200+ DSA problems solved in C++ | C++ |
+### 🤖 AI-Powered Resume Builder
+> Full-stack web app generating ATS-optimized resumes using OpenAI GPT API. Features JWT authentication, 5+ professional templates with real-time preview, and PDF upload with text extraction.
+
+- 📈 Used by **500+ real users** · ⏱️ Reduced resume creation time by **70%** · ✅ Improved ATS scores by **25%**
+- **Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `OpenAI API` `Tailwind CSS` `Vercel`
+
+---
+
+### 💳 Credit Card Fraud Detection System
+> Real-time fraud detection web app using LightGBM with **95% precision** and **92% recall**. Engineered geospatial features via geodesic distance calculation for location-based anomaly detection.
+
+- 📈 Improved accuracy by **15%** · ⚡ Processes **10,000+ transactions/min** with sub-second latency · Supports CSV batch & manual input
+- **Tech:** `Python` `LightGBM` `Streamlit` `scikit-learn` `pandas` `NumPy` `geopy` `Render`
+
+---
+
+### 🎨 AI Thumbnail Generator
+> Full-stack AI-powered app generating YouTube thumbnails using Google Gemini AI with customizable style, color, aspect ratio, and text overlay. Includes user dashboard, Clerk auth, and ImageKit cloud storage.
+
+- 📈 Reduced load time by **40%** through lazy loading & code splitting
+- **Tech:** `React` `TypeScript` `Node.js` `Express` `MongoDB` `Google Gemini AI` `Tailwind CSS` `Clerk` `ImageKit` `Vercel`
 
 ---
 
